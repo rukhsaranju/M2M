@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+.venv/
+*.pyc
+
+journal_entries.db
+test_journal_entries.db
+output.txt
+search_results_*.txt
+top_keywords_*.txt
